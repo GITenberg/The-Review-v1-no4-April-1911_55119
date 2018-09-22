@@ -1,5 +1,8 @@
 _repo: The-Review-v1-no4-April-1911_55119
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55119-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55119#The-Review-v1-no4-April-1911
 gutenberg_issued: '2017-07-15'
 gutenberg_type: Text
 identifiers:
